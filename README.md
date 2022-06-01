@@ -1,12 +1,14 @@
 <<<<<<< HEAD
-# todo-app
-todo app flutter using sqflite
-=======
-# todo_app
 
-A new Flutter project.
+todo app flutter using sqflite with checkbox function
+
+A Flutter project.
 
 ## Getting Started
+run this source: checkout and cd to project root
+-> open android or ios emulators
+-> run command: '**flutter run'** to run project
+
 
 This project is a starting point for a Flutter application.
 
